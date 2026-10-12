@@ -1,7 +1,3 @@
-# Sales Data Visualization Using Python
-
-### Decode Labs Internship — Project 4
-
 ## Project Overview
 
 This project focuses on analyzing and visualizing sales data using Python. The main objective is to create meaningful visualizations that help identify sales patterns, product performance, payment preferences, and relationships between numerical variables.
